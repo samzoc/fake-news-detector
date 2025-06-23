@@ -1,6 +1,3 @@
-# fake-news-detector
-A simple NLP project to classify fake and real news using machine learning
-
 # 📰 Fake News Detector
 
 A machine learning project that classifies real vs. fake news using Natural Language Processing (NLP) and a Random Forest classifier.
